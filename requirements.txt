@@ -1,0 +1,4 @@
+youtube-transcript-api
+openai
+python-dotenv
+streamlit
